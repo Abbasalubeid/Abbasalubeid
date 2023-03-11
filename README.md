@@ -1,5 +1,5 @@
 <p align="center">
-<h3 align="left">Feel free to reach out anytime</h3>
+<h3 align="left">Contact</h3>
 <p align="left">
   <a href="mailto:abbasalubeid1@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Mail: abbasalubeid1@gmail.com" width="40" height="40"/>
