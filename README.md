@@ -2,7 +2,7 @@
 <h3 align="left">Feel free to reach out anytime</h3>
 <p align="left">
   <a href="mailto:abbas.alubeid@icloud.com">
-    <img src="[https://img.icons8.com/fluent/48/000000/gmail.png](https://icons8.com/icon/VTzScukkSjB4/depila%C3%A7%C3%A3o)" alt="Mail: abbas.alubeid@icloud.com width="40" height="40"/>
+    <img src="https://icons8.com/icon/VTzScukkSjB4/depila%C3%A7%C3%A3o" alt="Mail: abbas.alubeid@icloud.com width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/abbas-alubeid" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn: Abbas Alubeid" width="40" height="40"/>
