@@ -24,5 +24,5 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/>
 </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalubeid&langs_count=3&theme=transparent"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalubeid&langs_count=5&theme=transparent"/>
 </p>
