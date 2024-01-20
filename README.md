@@ -20,4 +20,4 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Bash](https://img.icons8.com/color/48/000000/bash.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalubeid&langs_count=6&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalubeid&langs_count=5&theme=transparent)
