@@ -21,3 +21,5 @@
 ![Bash](https://img.icons8.com/color/48/000000/bash.png)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasalubeid&langs_count=5&theme=transparent)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abbasalubeid)
