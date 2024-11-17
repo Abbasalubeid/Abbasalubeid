@@ -9,7 +9,6 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Swift](https://img.icons8.com/color/48/000000/swift.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
