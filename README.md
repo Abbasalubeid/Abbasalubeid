@@ -5,8 +5,8 @@
 
 ### Languages and Tools
 
-![C++](https://img.icons8.com/?id=TpULddJc4gTh&format=png&color=000000)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
+![C++](https://img.icons8.com/?id=TpULddJc4gTh&format=png&color=000000)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)
 ![Swift](https://img.icons8.com/color/48/000000/swift.png)
