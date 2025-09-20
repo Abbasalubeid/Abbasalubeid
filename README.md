@@ -17,5 +17,6 @@
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Bash](https://img.icons8.com/color/48/000000/bash.png)
